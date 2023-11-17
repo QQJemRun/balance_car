@@ -1,2 +1,2 @@
 # balance_car
-balance_car_arduino_esp32_platformio
+balance car by arduino on esp32 using platformio
